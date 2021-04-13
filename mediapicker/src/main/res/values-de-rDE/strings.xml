@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="library_name">MediaPicker</string>
+    <string name="all_image">Alle Bilder</string>
+    <string name="all_video">Alle Videos</string>
+    <string name="all_dir_name">Alle Bilder und Videos</string>
+    <string name="select_title">Wählen Sie Bilder und Videos aus</string>
+    <string name="select_image_title">Wählen Sie Bilder aus</string>
+    <string name="select_video_title">Wählen Sie Videos aus</string>
+    <string name="video_dir_name">Alle Videos</string>
+    <string name="select_null">Bitte Datei auswählen</string>
+    <string name="done">Fertig</string>
+    <string name="select">Wählen</string>
+</resources>

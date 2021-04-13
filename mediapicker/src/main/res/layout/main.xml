@@ -17,7 +17,7 @@
 
 
         <Button
-            android:visibility="visible"
+            android:visibility="gone"
             android:id="@+id/preview"
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
